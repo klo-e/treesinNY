@@ -3,3 +3,6 @@ Here, official data from NYC OPEN DATA shows data on trees in New York City acro
 
 
 !This is an infographic (https://github.com/klo-e/treesinNY/blob/master/TreesofNYC.png)
+
+
+<img src="TreesofNYC.png" alt="hi" class="inline"/>
